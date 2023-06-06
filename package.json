@@ -14,7 +14,7 @@
 		"format:fix": "prettier --write . --config ./prettier.config.json --ignore-path ./.gitignore"
 	},
 	"dependencies": {
-		"astro": "^1.2.7"
+		"astro": "^1.9.2"
 	},
 	"devDependencies": {
 		"@typescript-eslint/parser": "^5.38.0",
